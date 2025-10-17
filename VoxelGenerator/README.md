@@ -1,9 +1,7 @@
 
 ## 3D Model Viewer
 
-![Vertebrae Preview](./images/vertebrae-preview.png)
-
-[View 3D Model in GitHub](./VoxelGenerator/000154_vertebrae.stl) | [![View in External 3D Viewer](https://img.shields.io/badge/View-3D%20Model-blue)](https://www.viewstl.com/?github=egeozgul/Generating-Human-Body-With-3D-Diffusion-Model/main/VoxelGenerator/000154_vertebrae.stl)
+[View 3D Model in GitHub](./000154_vertebrae.stl) | [![View in External 3D Viewer](https://img.shields.io/badge/View-3D%20Model-blue)](https://www.viewstl.com/?github=egeozgul/Generating-Human-Body-With-3D-Diffusion-Model/main/VoxelGenerator/000154_vertebrae.stl)
 
 [View 3D Model](000154_vertebrae.stl)
 [![View in 3D](https://img.shields.io/badge/View-3D%20Model-blue)](https://www.viewstl.com/?github=egeozgul/Generating-Human-Body-With-3D-Diffusion-Model/main/VoxelGenerator/000154_vertebrae.stl)
